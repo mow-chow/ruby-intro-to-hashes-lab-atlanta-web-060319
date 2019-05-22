@@ -10,12 +10,13 @@ end
 def monopoly
 	monopoly = {
 		:railroads => {
-			
+			:pieces => 4
 		}
 	}
 
 end
-
+monopoly hash that we started building in the #monopoly method #monopoly
+_with_second_tier sets the first key of the :railroads hash to a symbol, :pieces, whose value is the integer 4
 def monopoly_with_second_tier
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
 
