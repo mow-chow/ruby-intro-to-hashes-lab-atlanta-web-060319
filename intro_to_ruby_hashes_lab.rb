@@ -38,7 +38,6 @@ def monopoly_with_third_tier
 				:reading_railroad => {
 
 				}
-
 			},
 			:rent_in_dollars => {
 				:one_piece_owned => 25,
@@ -57,6 +56,9 @@ def monopoly_with_fourth_tier
 			:names => {
 				:reading_railroad => {
 
+				},
+				:pennsylvania_railroad => {
+					
 				}
 
 			},
