@@ -15,8 +15,7 @@ def monopoly
 	}
 
 end
-rs to the second level of the monopoly hash that we started building in the #monopoly method #monopoly
-_with_second_tier sets the third key of the :railroads hash to a symbol, :rent_in_dollars, whose value is an empty hash
+
 def monopoly_with_second_tier
 	monopoly = {
 		:railroads => {
